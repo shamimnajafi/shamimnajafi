@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @shamimnajafi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any avalible oppurtunities specially the ones related to biomedical engineering
-- 📫 How to reach me via my email: shamimnji2000@gmail.com
+👋 Hi
+- 🎓 I’m a recent graduate in biomedical engineering
+- 👀 I’m interested in Computer Vision and Image Processing
+- 🌱 I’m looking 
 
 <!---
 shamimnajafi/shamimnajafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
